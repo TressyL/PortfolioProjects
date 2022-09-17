@@ -1,3 +1,5 @@
+Project Uses: Joins (Left & Right), set theory concepts (union, inctercept, subqueries)
+
 --This project will be used to evaluate the top 400 best-selling video games that were created between 1977 and 2020.
 --The dataset includes information on critic reviews, user reviews, and game sales.
 --This data will be used to determine if video games have improved as the gaming market has grown.
